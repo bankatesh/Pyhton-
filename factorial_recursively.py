@@ -1,4 +1,4 @@
-in_val=input("Enter the value to find it's factorial")
+in_val=input("Enter the value to find it's factorial ")
 val = int(in_val)
 print(type(val))
 def func(val):
